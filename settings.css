@@ -1,0 +1,94 @@
+/* Basic interface elements */
+body,
+.monaco-workbench,
+.monaco-editor,
+.monaco-editor .monaco-editor-background,
+.monaco-editor .inputarea.ime-input {
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Sidebar and file tree */
+.explorer-folders-view .monaco-list-row,
+.explorer-folders-view .monaco-tl-row,
+.monaco-list-row,
+.monaco-tl-row,
+.monaco-tree {
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Menu and dropdown lists */
+.monaco-menu .monaco-action-bar.vertical .action-item .action-label:not(.separator),
+.monaco-dropdown-with-primary {
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Settings */
+.settings-editor > .settings-body > .settings-tree-container .setting-item-contents .setting-item-title,
+.settings-editor > .settings-body > .settings-tree-container .setting-item-contents .setting-item-description {
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Terminal */
+.terminal-wrapper,
+.xterm {
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Search panel */
+.search-view .search-widget .input-box,
+.search-view .search-widget .input-box .monaco-inputbox {
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Popup hints */
+.monaco-editor .monaco-hover-content,
+.monaco-editor .parameter-hints-widget,
+.monaco-editor .suggest-widget {
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Headers and status bar */
+.monaco-workbench .part.statusbar,
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab,
+.monaco-workbench .part.editor>.content .editor-group-container>.title .title-label,
+.monaco-workbench .part.sidebar>.title>.title-label,
+.monaco-workbench .part.panel>.title>.title-label,
+.monaco-workbench .part>.title>.title-label {
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Debugger window styles */
+.debug-view-content {
+  font-size: 13px !important;
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Debugger variables styles */
+.monaco-list-row {
+  font-size: 13px !important;
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Debugger variables styles */
+.debug-view-content {
+  font-size: 13px !important;
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Debug variables styles */
+.monaco-list-row {
+  font-size: 13px !important;
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Debugger variable values styles */
+.debug-hover-widget {
+  font-size: 13px !important;
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
+
+/* Debugger watch expressions styles */
+.watch-expressions {
+  font-size: 13px !important;
+  font-family: "JetBrains Mono SemiBold", monospace !important;
+}
