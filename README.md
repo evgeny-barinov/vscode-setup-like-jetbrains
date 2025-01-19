@@ -10,6 +10,7 @@ Keybinding are not recommended to change because it can break some usefull funct
 #### settings.css
 
 Make VS Code look like JetBrains IDE: fonts, styles, etc.
+
 [VS Code Custom CSS](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) is required to use this file.
 
 
